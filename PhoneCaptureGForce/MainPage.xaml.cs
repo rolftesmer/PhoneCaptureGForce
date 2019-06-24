@@ -9,8 +9,7 @@ namespace PhoneCaptureGForce
 {
     public sealed partial class MainPage : Page
     {
-        static string deviceConnectionString = "HostName=SSUGAIH.azure-devices.net;DeviceId=Windows10Phone;SharedAccessKey=KxPV2mfEvVMjYMvtjvIXOhzv79S7C2qNlYAWp1TQK1w=";
-        //static string deviceConnectionString = "HostName=aciot20.azure-devices.net;DeviceId=Windows10Phone;SharedAccessKey=7gmQHO/fWk/xm3RWIiBjK+Cn9MRzBou+csCTC/WpYeA=";
+        static string deviceConnectionString = "HostName=SSUGAIH.azure-devices.net;DeviceId=Windows10Phone;SharedAccessKey=YourKeyHere";
         static DeviceClient deviceClient;
         int sending = 0;
         int count = 0;
