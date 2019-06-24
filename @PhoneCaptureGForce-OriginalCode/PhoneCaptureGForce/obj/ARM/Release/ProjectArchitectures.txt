@@ -1,0 +1,1 @@
+d:\AzureIot\PhoneCaptureGForce\PhoneCaptureGForce\PhoneCaptureGForce.csproj;arm
