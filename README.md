@@ -5,7 +5,7 @@ Examples for the usage of this solution can be located in my blog;
 (1) https://mrfoxsql.wordpress.com/2017/05/31/making-phone-calls-from-azure-event-hub-messages/
 (2) https://mrfoxsql.files.wordpress.com/2018/06/pass-sqlsaturday-melbourne-azure-data-pipelines-v0-1.pdf
 
-
+## Solution Usage
 The below diagram shows the downstream solution (not part of this git repo)
 
 ![alt text](https://github.com/rolftesmer/PhoneCaptureGForce/blob/master/media/architecture.jpg)
