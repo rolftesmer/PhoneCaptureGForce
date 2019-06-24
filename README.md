@@ -2,8 +2,8 @@
 This is a Windows Phone app designed to create random JSON event telemetry based on the phone accelerometer (X, Y, Z and G) and send the events as a JSON string to an Azure Event Hub for downstream processing.
 
 Examples for the usage of this solution can be located in my blog;
-(1) https://mrfoxsql.wordpress.com/2017/05/31/making-phone-calls-from-azure-event-hub-messages/
-(2) https://mrfoxsql.files.wordpress.com/2018/06/pass-sqlsaturday-melbourne-azure-data-pipelines-v0-1.pdf
+https://mrfoxsql.wordpress.com/2017/05/31/making-phone-calls-from-azure-event-hub-messages/
+https://mrfoxsql.files.wordpress.com/2018/06/pass-sqlsaturday-melbourne-azure-data-pipelines-v0-1.pdf
 
 ## Solution Usage
 The below diagram shows the downstream solution (not part of this git repo)
